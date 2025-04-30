@@ -1,0 +1,10 @@
+
+{
+    "button": {
+        "color": {
+            "content": {
+                "value": "{color.content.brand}"
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+
+{
+    "color": {
+        "content": {
+            "brand": {
+                "value": "{color.brand.purple}"
+            }
+        }
+    }
+}

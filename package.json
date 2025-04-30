@@ -2,8 +2,9 @@
   "name": "design-token",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "style-dictionary build --config ./config.js"
   },
   "author": "",
   "license": "ISC",
