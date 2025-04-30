@@ -4,6 +4,12 @@
         "color": {
             "content": {
                 "value": "{color.content.brand}"
+            },
+            "background": {
+                "value": "{color.background.brand}"
+            },
+            "border": {
+                "value": "{color.border.brand}"
             }
         }
     }

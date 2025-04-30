@@ -3,7 +3,17 @@
     "color": {
         "content": {
             "brand": {
-                "value": "{color.brand.purple}"
+                "value": "{color.brand.purple.600}"
+            }
+        },
+        "background": {
+            "brand": {
+                "value": "{color.brand.purple.100}"
+            }
+        },
+        "border": {
+            "brand": {
+                "value": "{color.brand.purple.600}"
             }
         }
     }
