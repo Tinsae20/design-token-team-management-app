@@ -1,0 +1,11 @@
+
+.ds-c-heading {
+    color: var(--ds-theme-color-content-brand, #5A00CF);
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 272px;
+    height: 40px;
+}
