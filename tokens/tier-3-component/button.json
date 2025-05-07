@@ -3,13 +3,78 @@
     "button": {
         "color": {
             "content": {
-                "value": "{color.content.brand}"
+                "default": {
+                    "value": "{color.brand.purple.700}"
+                },
+                "hover": {
+                    "value": "{color.brand.purple.800}"
+                },
+                "active" : {
+                    "value": "{color.brand.purple.800}"
+                },
+                "disabled": {
+                    "value": "{color.brand.purple.200}"
+                }
             },
             "background": {
-                "value": "{color.background.brand}"
+                "default": {
+                    "value": "{color.neutral.white}"
+                },
+                "hover": {
+                    "value": "{color.neutral.white}"
+                },
+                "active" : {
+                    "value": "{color.neutral.white}"
+                },
+                "disabled": {
+                    "value": "{color.neutral.white}"
+                }
             },
             "border": {
-                "value": "{color.border.brand}"
+                "default": {
+                    "value": "{color.brand.purple.700}"
+                },
+                "hover": {
+                    "value": "{color.brand.purple.800}"
+                },
+                "active" : {
+                    "value": "{color.brand.purple.800}"
+                },
+                "disabled": {
+                    "value": "{color.brand.purple.200}"
+                }
+            }
+        },
+        "primary": {
+            "color": {
+                "content": {
+                    "default": {
+                        "value": "{color.neutral.white}"
+                    },
+                    "hover": {
+                        "value": "{color.neutral.white}"
+                    },
+                    "active" : {
+                        "value": "{color.neutral.white}"
+                    },
+                    "disabled": {
+                        "value": "{color.brand.purple.400}"
+                    }
+                },
+                "background": {
+                    "default": {
+                        "value": "{color.brand.purple.700}"
+                    },
+                    "hover": {
+                        "value": "{color.brand.purple.800}"
+                    },
+                    "active" : {
+                        "value": "{color.brand.purple.800}"
+                    },
+                    "disabled": {
+                        "value": "{color.brand.purple.100}"
+                    }
+                }
             }
         }
     }

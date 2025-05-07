@@ -209,6 +209,12 @@
             }
         },
         "neutral": {
+            "black": {
+                "value": "#000000"
+            },
+            "white": {
+                "value": "#FFFFFF"
+            },
             "100": {
                 "value": "#F0F0F3"
             },
@@ -253,8 +259,8 @@
             "magneta": {
                 "value": "#852170"
             },
-            "pink-transparent-12": {
-                "value": "rgba(255, 20, 147, 0.12)"
+            "purple-transparent-12": {
+                "value": "rgba(156, 102, 226, 1.0)"
             }
         }
     }
