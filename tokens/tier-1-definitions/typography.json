@@ -1,0 +1,94 @@
+{
+    "typography": {
+        "font-size": {
+            "12": {
+                "value": "12px"
+            },
+            "16": {
+                "value": "16px"
+            },
+            "24": {
+                "value": "24px"
+            },
+            "28": {
+                "value": "28px"
+            },
+            "30": {
+                "value": "30px"
+            },
+            "32": {
+                "value": "32px"
+            },
+            "36": {
+                "value": "36px"
+            },
+            "40": {
+                "value": "40px"
+            }
+        },
+        "line-height": {
+            "12": {
+                "value": "12px"
+            },
+            "16": {
+                "value": "16px"
+            },
+            "20": {
+                "value": "20px"
+            },
+            "24": {
+                "value": "24px"
+            },
+            "28": {
+                "value": "28px"
+            }
+        },
+        "letter-spacing": {
+            "minus-2": {
+                "value": "-2px"
+            },
+            "minus-1-half": {
+                "value": "-1.5px"
+            },
+            "minus-1": {
+                "value": "-1px"
+            },
+            "minus-half": {
+                "value": "-0.5px"
+            },
+            "0": {
+                "value": "0px"
+            },
+            "half": {
+                "value": "0.5px"
+            },
+            "2": {
+                "value": "2px"
+            }
+        },
+        "text-transform": {
+            "uppercase": {
+                "value": "uppercase"
+            },
+            "none": {
+                "value": "none"
+            }
+        },
+        "font-family": {
+            "kameron": {
+                "value": "kameron"
+            },
+            "nunito": {
+                "value": "nunito"
+            }
+        },
+        "font-weight": {
+            "400": {
+                "value": "400"
+            },
+            "600": {
+                "value": "600"
+            }
+        }
+    }
+}
